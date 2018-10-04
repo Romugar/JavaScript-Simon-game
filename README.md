@@ -2,8 +2,7 @@
 
 ### Build a Simon Game
 
-<iframe height='265' scrolling='no' title='Simon' src='//codepen.io/Romugar/embed/QpXyMG/?height=265&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/Romugar/pen/QpXyMG/'>Simon</a> by Roberto Muñoz (<a href='https://codepen.io/Romugar'>@Romugar</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+Try it on Codepen: [link](https://codepen.io/Romugar/pen/QpXyMG){:target="_blank"}
 
 #### Objective 
 
