@@ -2,7 +2,7 @@
 
 ### Build a Simon Game
 
-Try it on Codepen: [link](https://codepen.io/Romugar/pen/QpXyMG){:target="_blank"}
+Try it on Codepen: https://codepen.io/Romugar/pen/QpXyMG
 
 #### Objective 
 
